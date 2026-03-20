@@ -187,13 +187,10 @@ p { color: var(--text-muted); margin-bottom: 1rem; }
 }
 
 .nav-logo-img {
-    height: 40px;
+    height: 45px;
     width: auto;
-    min-width: 120px; /* Ensures width when empty */
     object-fit: contain;
     display: block;
-    background-color: rgba(0,0,0,0.02);
-    border-radius: 4px;
 }
 
 .footer-logo-img {
